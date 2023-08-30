@@ -8,4 +8,4 @@ The manager of the IT department has decided that an internal IT audit needs to 
 Read the Controls assessment
 
 2. ## Compliance checklist
-Read the details of the (Compliance checklist exemplar.pdf)[compliance checklist]
+Read the details of the (Compliance%20checklist%20exemplar.pdf)[compliance checklist]
