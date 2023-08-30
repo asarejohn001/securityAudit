@@ -5,7 +5,7 @@ The manager of the IT department has decided that an internal IT audit needs to 
 
 # Solution I presented for the company
 1. ## Control assessments
-Read the Controls assessment
+Read the [Controls assessment](Controls%20assessment%20exemplar.pdf)
 
 2. ## Compliance checklist
 Read the details of the [compliance checklist](Compliance%20checklist%20exemplar.pdf)
